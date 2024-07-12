@@ -1,7 +1,7 @@
 # Sales Data Analysis and HR Data cleaning
 
 # Sales Data Analysis
-Goal: Using sales data analysis to find patterns, best-selling items, and revenue indicators to help in business decisionmaking. This project focus on
+Goal: Using sales data analysis to find patterns, best-selling items, and revenue indicators to help in business decision making. This project focus on
     total sales,
     analysis of sales trends over time,
     determining the best-selling products, and build visualizations. 
